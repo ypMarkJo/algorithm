@@ -19,5 +19,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ypMarkJo/Algorithm/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/ypMarkJo/Algorithm/tree/master/1635-number-of-good-pairs) |
+## String
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ypMarkJo/Algorithm/tree/master/1341-split-a-string-in-balanced-strings) |
+## Greedy
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ypMarkJo/Algorithm/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
