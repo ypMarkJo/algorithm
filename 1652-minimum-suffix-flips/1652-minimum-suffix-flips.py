@@ -5,7 +5,6 @@ class Solution(object):
         :rtype: int
         """
         operations=0
-        n=len(target)
         bit='0'
         for cur in target:
             if cur != bit:
