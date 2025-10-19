@@ -25,8 +25,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ypMarkJo/Algorithm/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1652-minimum-suffix-flips](https://github.com/ypMarkJo/Algorithm/tree/master/1652-minimum-suffix-flips) |
 ## Greedy
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ypMarkJo/Algorithm/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1652-minimum-suffix-flips](https://github.com/ypMarkJo/Algorithm/tree/master/1652-minimum-suffix-flips) |
 <!---LeetCode Topics End-->
