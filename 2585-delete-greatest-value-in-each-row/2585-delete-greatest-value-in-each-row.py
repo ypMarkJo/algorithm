@@ -7,18 +7,19 @@ class Solution(object):
  
         ans=0
         while len(grid[0])!=0:
-            maximum=0
+            max=0
+
             for arr in grid:
-                print(arr)
-                if maximum<max(arr):
-                    maximum=max(arr)
                 del_idx=0
                 for i in range(len(arr)):
                     if arr[del_idx] <= arr[i]:
                         del_idx=i
+                        if arr[i] > max:
+                            max=arr[i]
                 del arr[del_idx]
-            print(maximum)
-            ans+=maximum
+            ans+=max
+            
+            print(ans)
             
         return ans
         
