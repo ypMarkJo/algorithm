@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1580-shuffle-the-array](https://github.com/ypMarkJo/Algorithm/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/ypMarkJo/Algorithm/tree/master/1635-number-of-good-pairs) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/ypMarkJo/Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ypMarkJo/Algorithm/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1652-minimum-suffix-flips](https://github.com/ypMarkJo/Algorithm/tree/master/1652-minimum-suffix-flips) |
+## Sorting
+|  |
+| ------- |
+| [2585-delete-greatest-value-in-each-row](https://github.com/ypMarkJo/Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2585-delete-greatest-value-in-each-row](https://github.com/ypMarkJo/Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
+## Matrix
+|  |
+| ------- |
+| [2585-delete-greatest-value-in-each-row](https://github.com/ypMarkJo/Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
+## Simulation
+|  |
+| ------- |
+| [2585-delete-greatest-value-in-each-row](https://github.com/ypMarkJo/Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
