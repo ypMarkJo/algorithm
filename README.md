@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/ypMarkJo/Algorithm/tree/master/0747-min-cost-climbing-stairs) |
 | [1580-shuffle-the-array](https://github.com/ypMarkJo/Algorithm/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/ypMarkJo/Algorithm/tree/master/1635-number-of-good-pairs) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ypMarkJo/Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -48,4 +49,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ypMarkJo/Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/ypMarkJo/Algorithm/tree/master/0747-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
