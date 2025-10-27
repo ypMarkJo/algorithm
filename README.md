@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/ypMarkJo/Algorithm/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/ypMarkJo/Algorithm/tree/master/0747-min-cost-climbing-stairs) |
 ## Tree
 |  |
@@ -69,4 +70,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/ypMarkJo/Algorithm/tree/master/0975-range-sum-of-bst) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/ypMarkJo/Algorithm/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
