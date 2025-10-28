@@ -6,8 +6,6 @@ class Solution(object):
         :rtype: int
         """
         while len(sandwiches)!=0 and sandwiches[0] in students:
-            print(students)
-            print(sandwiches)
             if students[0]==sandwiches[0]:
                 del students[0]
                 del sandwiches[0]
