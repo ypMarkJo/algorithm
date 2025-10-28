@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/ypMarkJo/Algorithm/tree/master/0747-min-cost-climbing-stairs) |
 | [1580-shuffle-the-array](https://github.com/ypMarkJo/Algorithm/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/ypMarkJo/Algorithm/tree/master/1635-number-of-good-pairs) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ypMarkJo/Algorithm/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ypMarkJo/Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ypMarkJo/Algorithm/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ypMarkJo/Algorithm/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ypMarkJo/Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Dynamic Programming
 |  |
@@ -81,4 +83,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ypMarkJo/Algorithm/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Stack
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ypMarkJo/Algorithm/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ypMarkJo/Algorithm/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
