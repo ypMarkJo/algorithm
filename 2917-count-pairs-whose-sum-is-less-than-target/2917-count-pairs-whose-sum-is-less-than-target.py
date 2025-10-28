@@ -19,7 +19,6 @@ class Solution(object):
         정석 풀이: 필요한 구간만 돔.
         """
         nums.sort()
-        print(nums)
         ans=0
         i,j=0,len(nums)-1
         
