@@ -2,7 +2,7 @@ class RecentCounter(object):
 
     def __init__(self):
 
-        self.recents=[]
+        self.recents=deque()
 
     # def ping(self, t):
     #     """
