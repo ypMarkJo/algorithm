@@ -27,7 +27,7 @@ class RecentCounter(object):
         """
         self.recents.append(t)
         while self.recents[0]<t-3000:
-            del self.recents[0]
+            self.recents.popleft()
         return len(self.recents)
 
 
