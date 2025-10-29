@@ -26,9 +26,10 @@ class RecentCounter(object):
         :rtype: int
         """
         self.recents.append(t)
+        # del self.recents[0]
+        # del < popleft() 성능이네
         while self.recents[0]<t-3000:
-            # del self.recents[0]
-            # del < popleft() 성능이네
+
             self.recents.popleft()
         return len(self.recents)
 
