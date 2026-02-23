@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ypMarkJo/Algorithm/tree/master/0217-contains-duplicate) |
 | [0747-min-cost-climbing-stairs](https://github.com/ypMarkJo/Algorithm/tree/master/0747-min-cost-climbing-stairs) |
 | [1580-shuffle-the-array](https://github.com/ypMarkJo/Algorithm/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/ypMarkJo/Algorithm/tree/master/1635-number-of-good-pairs) |
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ypMarkJo/Algorithm/tree/master/0217-contains-duplicate) |
 | [1635-number-of-good-pairs](https://github.com/ypMarkJo/Algorithm/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
@@ -38,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ypMarkJo/Algorithm/tree/master/0217-contains-duplicate) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ypMarkJo/Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ypMarkJo/Algorithm/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
