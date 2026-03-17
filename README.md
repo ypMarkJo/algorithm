@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ypMarkJo/algorithm/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/ypMarkJo/Algorithm/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ypMarkJo/Algorithm/tree/master/0217-contains-duplicate) |
 | [0747-min-cost-climbing-stairs](https://github.com/ypMarkJo/Algorithm/tree/master/0747-min-cost-climbing-stairs) |
 | [1580-shuffle-the-array](https://github.com/ypMarkJo/Algorithm/tree/master/1580-shuffle-the-array) |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ypMarkJo/algorithm/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/ypMarkJo/Algorithm/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ypMarkJo/Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ypMarkJo/Algorithm/tree/master/0242-valid-anagram) |
 | [1635-number-of-good-pairs](https://github.com/ypMarkJo/Algorithm/tree/master/1635-number-of-good-pairs) |
@@ -33,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ypMarkJo/Algorithm/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ypMarkJo/Algorithm/tree/master/0242-valid-anagram) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ypMarkJo/Algorithm/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1652-minimum-suffix-flips](https://github.com/ypMarkJo/Algorithm/tree/master/1652-minimum-suffix-flips) |
@@ -44,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ypMarkJo/Algorithm/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ypMarkJo/Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ypMarkJo/Algorithm/tree/master/0242-valid-anagram) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ypMarkJo/Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
